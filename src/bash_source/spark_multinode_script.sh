@@ -117,5 +117,3 @@ source ~/.bashrc
 
 #run jupyter notebook --> jupyter notebook --ip 0.0.0.0
 #open jupyter notebook URL --> http://masterip:8888/
-
-
